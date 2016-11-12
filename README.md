@@ -15,10 +15,6 @@
 
 
 
-- Midterm 
-
-
-
 ## Part 2: Front-End Development
 
 ### Titles 
@@ -35,8 +31,4 @@
 10. Measurments
 11. Responsive web design
 12. Mobile-First
-
-
-
-- Build your own framework.
 
